@@ -1,1 +1,1 @@
-# Collection of notebooks on LLM practices
+# Collection on LLM practices
